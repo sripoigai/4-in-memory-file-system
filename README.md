@@ -2,7 +2,7 @@
 
 Command Line Execution steps:
 
-// creates a new dir
+// creates a new dir 
 java FileOperationsExecute mkdir <absoluteDirPath>
 // create new file
 java FileOperationsExecute create <absoluteFilePath>
