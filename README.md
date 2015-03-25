@@ -1,6 +1,6 @@
 # 4-in-memory-file-system
 
-Command Line Execution steps:
+Command Line Execution steps: 
 
 // creates a new dir 
 java FileOperationsExecute mkdir <absoluteDirPath>
